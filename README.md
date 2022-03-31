@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=cdswyda&color=blueviolet)
+
 ![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdswyda&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdswyda&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
