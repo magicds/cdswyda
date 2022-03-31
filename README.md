@@ -6,10 +6,7 @@
 
 
 
-<p>
-    <img style="display: block" src="https://github-readme-streak-stats.herokuapp.com/?user=cdswyda&"
-        alt="cdswyda" />
-</p>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdswyda&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <!--
 **cdswyda/cdswyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
